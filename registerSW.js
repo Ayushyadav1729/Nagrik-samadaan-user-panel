@@ -1,1 +1,1 @@
-if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/Nagrik-samadaan-/sw.js', { scope: '/Nagrik-samadaan-/' })})}
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/Nagrik-samadaan-user-panel/sw.js', { scope: '/Nagrik-samadaan-user-panel/' })})}
